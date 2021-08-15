@@ -43,10 +43,10 @@ body.light-edition {
     cursor: var(--cursor-pointer); }
 
 .dark-edition {
-  --primary-color: #fd79e2;
+  --primary-color: #00a0dc;
   --primary-hover-light: rgba(253, 121, 226, .1);
-  --primary-hover-dark: #f047ce;
-  --title-color: #ec6fd2;
+  --primary-hover-dark: #0a00a2e;
+  --title-color: #635bd4;
   --bg-primary: #0d141a;
   --bg-secondary: #121a21;
   --bg-secondary-light: rgba(18, 26, 33, .5);
@@ -69,8 +69,8 @@ body.light-edition {
   -scrollbar-track: rgba(253, 121, 226, 0.1);
   --scrollbar-track-shadow: #121a21;
   --scrollbar-track-hover: #666666;
-  --scrollbar-thumb: linear-gradient(0deg, #5c5c73 27%,rgba(253, 121, 226, .5) 60%);
-  --scrollbar-thumb-hover: linear-gradient(13deg, #414166 14%,#eb7bd6 64%); }
+  --scrollbar-thumb: linear-gradient(0deg, #5c5c73 27%,rgba(38, 35, 83, .5) 60%);
+  --scrollbar-thumb-hover: linear-gradient(13deg, #414166 14%,#4a5bd4 64%); }
 
 .light-edition {
   --primary-color: #202060;
